@@ -1,4 +1,4 @@
-# Until 2018-04-28 10:13:21, I have solved **0** / **738** problems.
+# Until 2018-04-29 21:38:25, I have solved **11** / **742** problems.
 
 ----------------
 ## LeetCode Solution Table
@@ -742,3 +742,7 @@
 |821|[Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character)|Easy|
 |822|[Card Flipping Game](https://leetcode.com/problems/card-flipping-game)|Medium|
 |823|[Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors)|Medium|
+|824|[Goat Latin](https://leetcode.com/problems/goat-latin)|Easy|
+|825|[Friends Of Appropriate Ages](https://leetcode.com/problems/friends-of-appropriate-ages)|Medium|
+|826|[Most Profit Assigning Work](https://leetcode.com/problems/most-profit-assigning-work)|Medium|
+|827|[Making A Large Island](https://leetcode.com/problems/making-a-large-island)|Hard|
