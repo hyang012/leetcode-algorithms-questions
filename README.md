@@ -1,4 +1,4 @@
-# Until 2018-04-29 21:38:25, I have solved **11** / **742** problems.
+# Until 2018-04-29 21:44:07, I have solved **6** / **742** problems.
 
 ----------------
 ## LeetCode Solution Table
