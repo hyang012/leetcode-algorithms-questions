@@ -1,10 +1,10 @@
-# Until 2018-05-04 16:20:34, I have solved **10** / **742** problems.
+# Until 2018-05-04 17:16:39, I have solved **12** / **742** problems.
 
 ----------------
 ## LeetCode Solution Table
 | ID | Title | Difficulty | 
 |:---:|:---:|:---:|
-|001|[Two Sum](/Users/Derek/leetcode-algorithms-questions/001. Two Sum)|Easy|
+|001|[Two Sum](https://github.com/hyang012/leetcode-algorithms-questions/001. Two Sum)|Easy|
 |002|Add Two Numbers|Medium|
 |003|Longest Substring Without Repeating Characters|Medium|
 |004|Median of Two Sorted Arrays|Hard|
@@ -29,16 +29,16 @@
 |023|Merge k Sorted Lists|Hard|
 |024|Swap Nodes in Pairs|Medium|
 |025|Reverse Nodes in k-Group|Hard|
-|026|[Remove Duplicates from Sorted Array](/Users/Derek/leetcode-algorithms-questions/026. Remove Duplicates from Sorted Array)|Easy|
-|027|[Remove Element](/Users/Derek/leetcode-algorithms-questions/027. Remove Element)|Easy|
+|026|[Remove Duplicates from Sorted Array](https://github.com/hyang012/leetcode-algorithms-questions/026. Remove Duplicates from Sorted Array)|Easy|
+|027|[Remove Element](https://github.com/hyang012/leetcode-algorithms-questions/027. Remove Element)|Easy|
 |028|Implement strStr()|Easy|
 |029|Divide Two Integers|Medium|
 |030|Substring with Concatenation of All Words|Hard|
 |031|Next Permutation|Medium|
 |032|Longest Valid Parentheses|Hard|
 |033|Search in Rotated Sorted Array|Medium|
-|034|[Search for a Range](/Users/Derek/leetcode-algorithms-questions/034. Search for a Range)|Medium|
-|035|[Search Insert Position](/Users/Derek/leetcode-algorithms-questions/035. Search Insert Position)|Easy|
+|034|[Search for a Range](https://github.com/hyang012/leetcode-algorithms-questions/034. Search for a Range)|Medium|
+|035|[Search Insert Position](https://github.com/hyang012/leetcode-algorithms-questions/035. Search Insert Position)|Easy|
 |036|Valid Sudoku|Medium|
 |037|Sudoku Solver|Hard|
 |038|Count and Say|Easy|
@@ -56,7 +56,7 @@
 |050|Pow(x, n)|Medium|
 |051|N-Queens|Hard|
 |052|N-Queens II|Hard|
-|053|[Maximum Subarray](/Users/Derek/leetcode-algorithms-questions/053. Maximum Subarray)|Easy|
+|053|[Maximum Subarray](https://github.com/hyang012/leetcode-algorithms-questions/053. Maximum Subarray)|Easy|
 |054|Spiral Matrix|Medium|
 |055|Jump Game|Medium|
 |056|Merge Intervals|Medium|
@@ -69,7 +69,7 @@
 |063|Unique Paths II|Medium|
 |064|Minimum Path Sum|Medium|
 |065|Valid Number|Hard|
-|066|[Plus One](/Users/Derek/leetcode-algorithms-questions/066. Plus One)|Easy|
+|066|[Plus One](https://github.com/hyang012/leetcode-algorithms-questions/066. Plus One)|Easy|
 |067|Add Binary|Easy|
 |068|Text Justification|Hard|
 |069|Sqrt(x)|Easy|
@@ -91,7 +91,7 @@
 |085|Maximal Rectangle|Hard|
 |086|Partition List|Medium|
 |087|Scramble String|Hard|
-|088|[Merge Sorted Array](/Users/Derek/leetcode-algorithms-questions/088. Merge Sorted Array)|Easy|
+|088|[Merge Sorted Array](https://github.com/hyang012/leetcode-algorithms-questions/088. Merge Sorted Array)|Easy|
 |089|Gray Code|Medium|
 |090|Subsets II|Medium|
 |091|Decode Ways|Medium|
@@ -121,11 +121,11 @@
 |115|Distinct Subsequences|Hard|
 |116|Populating Next Right Pointers in Each Node|Medium|
 |117|Populating Next Right Pointers in Each Node II|Medium|
-|118|[Pascal's Triangle](/Users/Derek/leetcode-algorithms-questions/118. Pascal's Triangle)|Easy|
-|119|[Pascal's Triangle II](/Users/Derek/leetcode-algorithms-questions/119. Pascal's Triangle II)|Easy|
+|118|[Pascal's Triangle](https://github.com/hyang012/leetcode-algorithms-questions/118. Pascal's Triangle)|Easy|
+|119|[Pascal's Triangle II](https://github.com/hyang012/leetcode-algorithms-questions/119. Pascal's Triangle II)|Easy|
 |120|Triangle|Medium|
-|121|Best Time to Buy and Sell Stock|Easy|
-|122|Best Time to Buy and Sell Stock II|Easy|
+|121|[Best Time to Buy and Sell Stock](https://github.com/hyang012/leetcode-algorithms-questions/121. Best Time to Buy and Sell Stock)|Easy|
+|122|[Best Time to Buy and Sell Stock II](https://github.com/hyang012/leetcode-algorithms-questions/122. Best Time to Buy and Sell Stock II)|Easy|
 |123|Best Time to Buy and Sell Stock III|Hard|
 |124|Binary Tree Maximum Path Sum|Hard|
 |125|Valid Palindrome|Easy|
