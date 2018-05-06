@@ -1,4 +1,4 @@
-# Until 2018-05-05 11:02:40, I have solved **14** / **742** problems.
+# Until 2018-05-06 11:37:52, I have solved **18** / **746** problems.
 
 ----------------
 ## LeetCode Solution Table
@@ -182,7 +182,7 @@
 |186|Reverse Words in a String II|Medium|
 |187|Repeated DNA Sequences|Medium|
 |188|Best Time to Buy and Sell Stock IV|Hard|
-|189|Rotate Array|Easy|
+|189|[Rotate Array](https://github.com/hyang012/leetcode-algorithms-questions/189.%20Rotate%20Array)|Easy|
 |190|Reverse Bits|Easy|
 |191|Number of 1 Bits|Easy|
 |198|House Robber|Easy|
@@ -204,9 +204,9 @@
 |214|Shortest Palindrome|Hard|
 |215|Kth Largest Element in an Array|Medium|
 |216|Combination Sum III|Medium|
-|217|Contains Duplicate|Easy|
+|217|[Contains Duplicate](https://github.com/hyang012/leetcode-algorithms-questions/217.%20Contains%20Duplicate)|Easy|
 |218|The Skyline Problem|Hard|
-|219|Contains Duplicate II|Easy|
+|219|[Contains Duplicate II](https://github.com/hyang012/leetcode-algorithms-questions/219.%20Contains%20Duplicate%20II)|Easy|
 |220|Contains Duplicate III|Medium|
 |221|Maximal Square|Medium|
 |222|Count Complete Tree Nodes|Medium|
@@ -254,7 +254,7 @@
 |265|Paint House II|Hard|
 |266|Palindrome Permutation|Easy|
 |267|Palindrome Permutation II|Medium|
-|268|Missing Number|Easy|
+|268|[Missing Number](https://github.com/hyang012/leetcode-algorithms-questions/268.%20Missing%20Number)|Easy|
 |269|Alien Dictionary|Hard|
 |270|Closest Binary Search Tree Value|Easy|
 |271|Encode and Decode Strings|Medium|
@@ -746,3 +746,7 @@
 |825|Friends Of Appropriate Ages|Medium|
 |826|Most Profit Assigning Work|Medium|
 |827|Making A Large Island|Hard|
+|828|Unique Letter String|Hard|
+|829|Consecutive Numbers Sum|Medium|
+|830|Positions of Large Groups|Easy|
+|831|Masking Personal Information|Medium|
