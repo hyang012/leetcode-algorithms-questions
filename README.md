@@ -1,4 +1,4 @@
-# Until 2018-05-06 11:37:52, I have solved **18** / **746** problems.
+# Until 2018-05-07 22:26:04, I have solved **20** / **746** problems.
 
 ----------------
 ## LeetCode Solution Table
@@ -269,7 +269,7 @@
 |280|Wiggle Sort|Medium|
 |281|Zigzag Iterator|Medium|
 |282|Expression Add Operators|Hard|
-|283|Move Zeroes|Easy|
+|283|[Move Zeroes](https://github.com/hyang012/leetcode-algorithms-questions/283.%20Move%20Zeroes)|Easy|
 |284|Peeking Iterator|Medium|
 |285|Inorder Successor in BST|Medium|
 |286|Walls and Gates|Medium|
@@ -400,7 +400,7 @@
 |411|Minimum Unique Word Abbreviation|Hard|
 |412|Fizz Buzz|Easy|
 |413|Arithmetic Slices|Medium|
-|414|Third Maximum Number|Easy|
+|414|[Third Maximum Number](https://github.com/hyang012/leetcode-algorithms-questions/414.%20Third%20Maximum%20Number)|Easy|
 |415|Add Strings|Easy|
 |416|Partition Equal Subset Sum|Medium|
 |417|Pacific Atlantic Water Flow|Medium|
