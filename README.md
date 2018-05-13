@@ -1,4 +1,4 @@
-# Until 2018-05-07 22:26:04, I have solved **20** / **746** problems.
+# Until 2018-05-12 20:23:13, I have solved **24** / **750** problems.
 
 ----------------
 ## LeetCode Solution Table
@@ -14,12 +14,12 @@
 |008|String to Integer (atoi)|Medium|
 |009|Palindrome Number|Easy|
 |010|Regular Expression Matching|Hard|
-|011|Container With Most Water|Medium|
+|011|[Container With Most Water](https://github.com/hyang012/leetcode-algorithms-questions/011.%20Container%20With%20Most%20Water)|Medium|
 |012|Integer to Roman|Medium|
 |013|Roman to Integer|Easy|
 |014|Longest Common Prefix|Easy|
-|015|3Sum|Medium|
-|016|3Sum Closest|Medium|
+|015|[3Sum](https://github.com/hyang012/leetcode-algorithms-questions/015.%203Sum)|Medium|
+|016|[3Sum Closest](https://github.com/hyang012/leetcode-algorithms-questions/016.%203Sum%20Closest)|Medium|
 |017|Letter Combinations of a Phone Number|Medium|
 |018|4Sum|Medium|
 |019|Remove Nth Node From End of List|Medium|
@@ -34,7 +34,7 @@
 |028|Implement strStr()|Easy|
 |029|Divide Two Integers|Medium|
 |030|Substring with Concatenation of All Words|Hard|
-|031|Next Permutation|Medium|
+|031|[Next Permutation](https://github.com/hyang012/leetcode-algorithms-questions/031.%20Next%20Permutation)|Medium|
 |032|Longest Valid Parentheses|Hard|
 |033|Search in Rotated Sorted Array|Medium|
 |034|[Search for a Range](https://github.com/hyang012/leetcode-algorithms-questions/034.%20Search%20for%20a%20Range)|Medium|
@@ -750,3 +750,7 @@
 |829|Consecutive Numbers Sum|Medium|
 |830|Positions of Large Groups|Easy|
 |831|Masking Personal Information|Medium|
+|832|Flipping an Image|Easy|
+|833|Find And Replace in String|Medium|
+|834|Sum of Distances in Tree|Hard|
+|835|Image Overlap|Medium|
