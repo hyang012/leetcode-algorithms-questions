@@ -1,4 +1,4 @@
-# Until 2018-05-12 20:23:13, I have solved **24** / **750** problems.
+# Until 2018-05-17 22:56:53, I have solved **27** / **750** problems.
 
 ----------------
 ## LeetCode Solution Table
@@ -36,14 +36,14 @@
 |030|Substring with Concatenation of All Words|Hard|
 |031|[Next Permutation](https://github.com/hyang012/leetcode-algorithms-questions/031.%20Next%20Permutation)|Medium|
 |032|Longest Valid Parentheses|Hard|
-|033|Search in Rotated Sorted Array|Medium|
+|033|[Search in Rotated Sorted Array](https://github.com/hyang012/leetcode-algorithms-questions/033.%20Search%20in%20Rotated%20Sorted%20Array)|Medium|
 |034|[Search for a Range](https://github.com/hyang012/leetcode-algorithms-questions/034.%20Search%20for%20a%20Range)|Medium|
 |035|[Search Insert Position](https://github.com/hyang012/leetcode-algorithms-questions/035.%20Search%20Insert%20Position)|Easy|
 |036|Valid Sudoku|Medium|
 |037|Sudoku Solver|Hard|
 |038|Count and Say|Easy|
-|039|Combination Sum|Medium|
-|040|Combination Sum II|Medium|
+|039|[Combination Sum](https://github.com/hyang012/leetcode-algorithms-questions/039.%20Combination%20Sum)|Medium|
+|040|[Combination Sum II](https://github.com/hyang012/leetcode-algorithms-questions/040.%20Combination%20Sum%20II)|Medium|
 |041|First Missing Positive|Hard|
 |042|Trapping Rain Water|Hard|
 |043|Multiply Strings|Medium|
