@@ -1,4 +1,4 @@
-# Until 2018-05-17 22:56:53, I have solved **27** / **750** problems.
+# Until 2018-05-29 13:49:09, I have solved **30** / **758** problems.
 
 ----------------
 ## LeetCode Solution Table
@@ -51,14 +51,14 @@
 |045|Jump Game II|Hard|
 |046|Permutations|Medium|
 |047|Permutations II|Medium|
-|048|Rotate Image|Medium|
+|048|[Rotate Image](https://github.com/hyang012/leetcode-algorithms-questions/048.%20Rotate%20Image)|Medium|
 |049|Group Anagrams|Medium|
 |050|Pow(x, n)|Medium|
 |051|N-Queens|Hard|
 |052|N-Queens II|Hard|
 |053|[Maximum Subarray](https://github.com/hyang012/leetcode-algorithms-questions/053.%20Maximum%20Subarray)|Easy|
-|054|Spiral Matrix|Medium|
-|055|Jump Game|Medium|
+|054|[Spiral Matrix](https://github.com/hyang012/leetcode-algorithms-questions/054.%20Spiral%20Matrix)|Medium|
+|055|[Jump Game](https://github.com/hyang012/leetcode-algorithms-questions/055.%20Jump%20Game)|Medium|
 |056|Merge Intervals|Medium|
 |057|Insert Interval|Hard|
 |058|Length of Last Word|Easy|
@@ -754,3 +754,11 @@
 |833|Find And Replace in String|Medium|
 |834|Sum of Distances in Tree|Hard|
 |835|Image Overlap|Medium|
+|836|Rectangle Overlap|Easy|
+|837|New 21 Game|Medium|
+|838|Push Dominoes|Medium|
+|839|Similar String Groups|Hard|
+|840|Magic Squares In Grid|Easy|
+|841|Keys and Rooms|Medium|
+|842|Split Array into Fibonacci Sequence|Medium|
+|843|Guess the Word|Hard|
