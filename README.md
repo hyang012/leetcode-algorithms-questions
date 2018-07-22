@@ -1,4 +1,4 @@
-# Until 2018-05-29 13:49:09, I have solved **30** / **758** problems.
+# Until 2018-07-22 13:09:17, I have solved **39** / **819** problems.
 
 ----------------
 ## LeetCode Solution Table
@@ -16,14 +16,14 @@
 |010|Regular Expression Matching|Hard|
 |011|[Container With Most Water](https://github.com/hyang012/leetcode-algorithms-questions/011.%20Container%20With%20Most%20Water)|Medium|
 |012|Integer to Roman|Medium|
-|013|Roman to Integer|Easy|
-|014|Longest Common Prefix|Easy|
+|013|[Roman to Integer](https://github.com/hyang012/leetcode-algorithms-questions/013.%20Roman%20to%20Integer)|Easy|
+|014|[Longest Common Prefix](https://github.com/hyang012/leetcode-algorithms-questions/014.%20Longest%20Common%20Prefix)|Easy|
 |015|[3Sum](https://github.com/hyang012/leetcode-algorithms-questions/015.%203Sum)|Medium|
 |016|[3Sum Closest](https://github.com/hyang012/leetcode-algorithms-questions/016.%203Sum%20Closest)|Medium|
 |017|Letter Combinations of a Phone Number|Medium|
 |018|4Sum|Medium|
 |019|Remove Nth Node From End of List|Medium|
-|020|Valid Parentheses|Easy|
+|020|[Valid Parentheses](https://github.com/hyang012/leetcode-algorithms-questions/020.%20Valid%20Parentheses)|Easy|
 |021|Merge Two Sorted Lists|Easy|
 |022|Generate Parentheses|Medium|
 |023|Merge k Sorted Lists|Hard|
@@ -31,17 +31,17 @@
 |025|Reverse Nodes in k-Group|Hard|
 |026|[Remove Duplicates from Sorted Array](https://github.com/hyang012/leetcode-algorithms-questions/026.%20Remove%20Duplicates%20from%20Sorted%20Array)|Easy|
 |027|[Remove Element](https://github.com/hyang012/leetcode-algorithms-questions/027.%20Remove%20Element)|Easy|
-|028|Implement strStr()|Easy|
+|028|[Implement strStr()](https://github.com/hyang012/leetcode-algorithms-questions/028.%20Implement%20strStr())|Easy|
 |029|Divide Two Integers|Medium|
 |030|Substring with Concatenation of All Words|Hard|
 |031|[Next Permutation](https://github.com/hyang012/leetcode-algorithms-questions/031.%20Next%20Permutation)|Medium|
 |032|Longest Valid Parentheses|Hard|
 |033|[Search in Rotated Sorted Array](https://github.com/hyang012/leetcode-algorithms-questions/033.%20Search%20in%20Rotated%20Sorted%20Array)|Medium|
-|034|[Search for a Range](https://github.com/hyang012/leetcode-algorithms-questions/034.%20Search%20for%20a%20Range)|Medium|
+|034|Find First and Last Position of Element in Sorted Array|Medium|
 |035|[Search Insert Position](https://github.com/hyang012/leetcode-algorithms-questions/035.%20Search%20Insert%20Position)|Easy|
 |036|Valid Sudoku|Medium|
 |037|Sudoku Solver|Hard|
-|038|Count and Say|Easy|
+|038|[Count and Say](https://github.com/hyang012/leetcode-algorithms-questions/038.%20Count%20and%20Say)|Easy|
 |039|[Combination Sum](https://github.com/hyang012/leetcode-algorithms-questions/039.%20Combination%20Sum)|Medium|
 |040|[Combination Sum II](https://github.com/hyang012/leetcode-algorithms-questions/040.%20Combination%20Sum%20II)|Medium|
 |041|First Missing Positive|Hard|
@@ -59,9 +59,9 @@
 |053|[Maximum Subarray](https://github.com/hyang012/leetcode-algorithms-questions/053.%20Maximum%20Subarray)|Easy|
 |054|[Spiral Matrix](https://github.com/hyang012/leetcode-algorithms-questions/054.%20Spiral%20Matrix)|Medium|
 |055|[Jump Game](https://github.com/hyang012/leetcode-algorithms-questions/055.%20Jump%20Game)|Medium|
-|056|Merge Intervals|Medium|
+|056|[Merge Intervals](https://github.com/hyang012/leetcode-algorithms-questions/056.%20Merge%20Intervals)|Medium|
 |057|Insert Interval|Hard|
-|058|Length of Last Word|Easy|
+|058|[Length of Last Word](https://github.com/hyang012/leetcode-algorithms-questions/058.%20Length%20of%20Last%20Word)|Easy|
 |059|Spiral Matrix II|Medium|
 |060|Permutation Sequence|Medium|
 |061|Rotate List|Medium|
@@ -70,7 +70,7 @@
 |064|Minimum Path Sum|Medium|
 |065|Valid Number|Hard|
 |066|[Plus One](https://github.com/hyang012/leetcode-algorithms-questions/066.%20Plus%20One)|Easy|
-|067|Add Binary|Easy|
+|067|[Add Binary](https://github.com/hyang012/leetcode-algorithms-questions/067.%20Add%20Binary)|Easy|
 |068|Text Justification|Hard|
 |069|Sqrt(x)|Easy|
 |070|Climbing Stairs|Easy|
@@ -128,7 +128,7 @@
 |122|[Best Time to Buy and Sell Stock II](https://github.com/hyang012/leetcode-algorithms-questions/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II)|Easy|
 |123|Best Time to Buy and Sell Stock III|Hard|
 |124|Binary Tree Maximum Path Sum|Hard|
-|125|Valid Palindrome|Easy|
+|125|[Valid Palindrome](https://github.com/hyang012/leetcode-algorithms-questions/125.%20Valid%20Palindrome)|Easy|
 |126|Word Ladder II|Hard|
 |127|Word Ladder|Medium|
 |128|Longest Consecutive Sequence|Hard|
@@ -413,6 +413,7 @@
 |424|Longest Repeating Character Replacement|Medium|
 |425|Word Squares|Hard|
 |432|All O`one Data Structure|Hard|
+|433|Minimum Genetic Mutation|Medium|
 |434|Number of Segments in a String|Easy|
 |435|Non-overlapping Intervals|Medium|
 |436|Find Right Interval|Medium|
@@ -436,6 +437,8 @@
 |454|4Sum II|Medium|
 |455|Assign Cookies|Easy|
 |456|132 Pattern|Medium|
+|457|Circular Array Loop|Medium|
+|458|Poor Pigs|Easy|
 |459|Repeated Substring Pattern|Easy|
 |460|LFU Cache|Hard|
 |461|Hamming Distance|Easy|
@@ -487,6 +490,7 @@
 |515|Find Largest Value in Each Tree Row|Medium|
 |516|Longest Palindromic Subsequence|Medium|
 |517|Super Washing Machines|Hard|
+|518|Coin Change 2|Medium|
 |520|Detect Capital|Easy|
 |521|Longest Uncommon Subsequence I |Easy|
 |522|Longest Uncommon Subsequence II|Medium|
@@ -660,6 +664,7 @@
 |739|Daily Temperatures|Medium|
 |740|Delete and Earn|Medium|
 |741|Cherry Pickup|Hard|
+|709|To Lower Case|Easy|
 |742|Closest Leaf in a Binary Tree|Medium|
 |743|Network Delay Time|Medium|
 |744|Find Smallest Letter Greater Than Target|Easy|
@@ -675,26 +680,41 @@
 |754|Reach a Number|Medium|
 |755|Pour Water|Medium|
 |756|Pyramid Transition Matrix|Medium|
+|426|Convert Binary Search Tree to Sorted Doubly Linked List|Medium|
 |757|Set Intersection Size At Least Two|Hard|
 |758|Bold Words in String|Easy|
 |759|Employee Free Time|Hard|
 |760|Find Anagram Mappings|Easy|
 |761|Special Binary String|Hard|
+|429|N-ary Tree Level Order Traversal|Easy|
+|428|Serialize and Deserialize N-ary Tree|Hard|
+|430|Flatten a Multilevel Doubly Linked List|Medium|
 |762|Prime Number of Set Bits in Binary Representation|Easy|
 |763|Partition Labels|Medium|
 |764|Largest Plus Sign|Medium|
 |765|Couples Holding Hands|Hard|
+|431|Encode N-ary Tree to Binary Tree|Hard|
+|427|Construct Quad Tree|Easy|
+|558|Quad Tree Intersection|Easy|
+|559|Maximum Depth of N-ary Tree|Easy|
+|589|N-ary Tree Preorder Traversal|Easy|
+|590|N-ary Tree Postorder Traversal|Easy|
 |766|Toeplitz Matrix|Easy|
 |767|Reorganize String|Medium|
 |768|Max Chunks To Make Sorted II|Hard|
 |769|Max Chunks To Make Sorted|Medium|
 |770|Basic Calculator IV|Hard|
 |771|Jewels and Stones|Easy|
+|700|Search in a Binary Search Tree|Easy|
+|701|Insert into a Binary Search Tree|Medium|
 |772|Basic Calculator III|Hard|
+|702|Search in a Sorted Array of Unknown Size|Medium|
 |773|Sliding Puzzle|Hard|
 |774|Minimize Max Distance to Gas Station|Hard|
+|703|Kth Largest Element in a Stream|Easy|
 |775|Global and Local Inversions|Medium|
 |776|Split BST|Medium|
+|704|Binary Search|Easy|
 |777|Swap Adjacent in LR String|Medium|
 |778|Swim in Rising Water|Hard|
 |779|K-th Symbol in Grammar|Medium|
@@ -718,6 +738,8 @@
 |797|All Paths From Source to Target|Medium|
 |798|Smallest Rotation with Highest Score|Hard|
 |799|Champagne Tower|Medium|
+|705|Design HashSet|Easy|
+|706|Design HashMap|Easy|
 |800|Similar RGB Color|Easy|
 |801|Minimum Swaps To Make Sequences Increasing|Medium|
 |802|Find Eventual Safe States|Medium|
@@ -738,10 +760,12 @@
 |817|Linked List Components|Medium|
 |818|Race Car|Hard|
 |819|Most Common Word|Easy|
+|707|Design Linked List|Easy|
 |820|Short Encoding of Words|Medium|
 |821|Shortest Distance to a Character|Easy|
 |822|Card Flipping Game|Medium|
 |823|Binary Trees With Factors|Medium|
+|708|Insert into a Cyclic Sorted List|Medium|
 |824|Goat Latin|Easy|
 |825|Friends Of Appropriate Ages|Medium|
 |826|Most Profit Assigning Work|Medium|
@@ -750,10 +774,13 @@
 |829|Consecutive Numbers Sum|Medium|
 |830|Positions of Large Groups|Easy|
 |831|Masking Personal Information|Medium|
+|641|Design Circular Deque|Medium|
+|622|Design Circular Queue|Medium|
 |832|Flipping an Image|Easy|
 |833|Find And Replace in String|Medium|
 |834|Sum of Distances in Tree|Hard|
 |835|Image Overlap|Medium|
+|489|Robot Room Cleaner|Hard|
 |836|Rectangle Overlap|Easy|
 |837|New 21 Game|Medium|
 |838|Push Dominoes|Medium|
@@ -762,3 +789,37 @@
 |841|Keys and Rooms|Medium|
 |842|Split Array into Fibonacci Sequence|Medium|
 |843|Guess the Word|Hard|
+|844|Backspace String Compare|Easy|
+|845|Longest Mountain in Array|Medium|
+|846|Hand of Straights|Medium|
+|847|Shortest Path Visiting All Nodes|Hard|
+|848|Shifting Letters|Medium|
+|849|Maximize Distance to Closest Person|Easy|
+|850|Rectangle Area II|Hard|
+|851|Loud and Rich|Medium|
+|852|Peak Index in a Mountain Array|Easy|
+|853|Car Fleet|Medium|
+|854|K-Similar Strings|Hard|
+|855|Exam Room|Medium|
+|856|Score of Parentheses|Medium|
+|857|Minimum Cost to Hire K Workers|Hard|
+|858|Mirror Reflection|Medium|
+|859|Buddy Strings|Easy|
+|860|Lemonade Change|Easy|
+|861|Score After Flipping Matrix|Medium|
+|862|Shortest Subarray with Sum at Least K|Hard|
+|863|All Nodes Distance K in Binary Tree|Medium|
+|710|Random Pick with Blacklist|Hard|
+|864|Shortest Path to Get All Keys|Hard|
+|865|Smallest Subtree with all the Deepest Nodes|Medium|
+|866|Prime Palindrome|Medium|
+|867|Transpose Matrix|Easy|
+|868|Binary Gap|Easy|
+|869|Reordered Power of 2|Medium|
+|870|Advantage Shuffle|Medium|
+|871|Minimum Number of Refueling Stops|Hard|
+|470|Implement Rand10() Using Rand7()|Medium|
+|872|Leaf-Similar Trees|Easy|
+|873|Length of Longest Fibonacci Subsequence|Medium|
+|874|Walking Robot Simulation|Easy|
+|875|Koko Eating Bananas|Medium|
