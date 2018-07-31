@@ -1,4 +1,4 @@
-# Until 2018-07-22 13:09:17, I have solved **39** / **819** problems.
+# Until 2018-07-31 12:15:51, I have solved **44** / **827** problems.
 
 ----------------
 ## LeetCode Solution Table
@@ -6,7 +6,7 @@
 |:---:|:---:|:---:|
 |001|[Two Sum](https://github.com/hyang012/leetcode-algorithms-questions/001.%20Two%20Sum)|Easy|
 |002|Add Two Numbers|Medium|
-|003|Longest Substring Without Repeating Characters|Medium|
+|003|[Longest Substring Without Repeating Characters](https://github.com/hyang012/leetcode-algorithms-questions/003.%20Longest%20Substring%20Without%20Repeating%20Characters)|Medium|
 |004|Median of Two Sorted Arrays|Hard|
 |005|Longest Palindromic Substring|Medium|
 |006|ZigZag Conversion|Medium|
@@ -330,8 +330,8 @@
 |341|Flatten Nested List Iterator|Medium|
 |342|Power of Four|Easy|
 |343|Integer Break|Medium|
-|344|Reverse String|Easy|
-|345|Reverse Vowels of a String|Easy|
+|344|[Reverse String](https://github.com/hyang012/leetcode-algorithms-questions/344.%20Reverse%20String)|Easy|
+|345|[Reverse Vowels of a String](https://github.com/hyang012/leetcode-algorithms-questions/345.%20Reverse%20Vowels%20of%20a%20String)|Easy|
 |346|Moving Average from Data Stream|Easy|
 |347|Top K Frequent Elements|Medium|
 |348|Design Tic-Tac-Toe|Medium|
@@ -369,11 +369,11 @@
 |380|Insert Delete GetRandom O(1)|Medium|
 |381|Insert Delete GetRandom O(1) - Duplicates allowed|Hard|
 |382|Linked List Random Node|Medium|
-|383|Ransom Note|Easy|
+|383|[Ransom Note](https://github.com/hyang012/leetcode-algorithms-questions/383.%20Ransom%20Note)|Easy|
 |384|Shuffle an Array|Medium|
 |385|Mini Parser|Medium|
 |386|Lexicographical Numbers|Medium|
-|387|First Unique Character in a String|Easy|
+|387|[First Unique Character in a String](https://github.com/hyang012/leetcode-algorithms-questions/387.%20First%20Unique%20Character%20in%20a%20String)|Easy|
 |388|Longest Absolute File Path|Medium|
 |389|Find the Difference|Easy|
 |390|Elimination Game|Medium|
@@ -823,3 +823,11 @@
 |873|Length of Longest Fibonacci Subsequence|Medium|
 |874|Walking Robot Simulation|Easy|
 |875|Koko Eating Bananas|Medium|
+|876|Middle of the Linked List|Easy|
+|877|Stone Game|Medium|
+|878|Nth Magical Number|Hard|
+|879|Profitable Schemes|Hard|
+|880|Random Pick with Weight|Medium|
+|881|Random Flip Matrix|Medium|
+|882|Random Point in Non-overlapping Rectangles|Medium|
+|883|Generate Random Point in a Circle|Medium|
