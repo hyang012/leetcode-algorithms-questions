@@ -1,4 +1,4 @@
-# Until 2018-07-31 12:15:51, I have solved **44** / **827** problems.
+# Until 2018-08-09 00:35:56, I have solved **50** / **831** problems.
 
 ----------------
 ## LeetCode Solution Table
@@ -8,24 +8,24 @@
 |002|Add Two Numbers|Medium|
 |003|[Longest Substring Without Repeating Characters](https://github.com/hyang012/leetcode-algorithms-questions/003.%20Longest%20Substring%20Without%20Repeating%20Characters)|Medium|
 |004|Median of Two Sorted Arrays|Hard|
-|005|Longest Palindromic Substring|Medium|
-|006|ZigZag Conversion|Medium|
+|005|[Longest Palindromic Substring](https://github.com/hyang012/leetcode-algorithms-questions/005.%20Longest%20Palindromic%20Substring)|Medium|
+|006|[ZigZag Conversion](https://github.com/hyang012/leetcode-algorithms-questions/006.%20ZigZag%20Conversion)|Medium|
 |007|Reverse Integer|Easy|
-|008|String to Integer (atoi)|Medium|
+|008|[String to Integer (atoi)](https://github.com/hyang012/leetcode-algorithms-questions/008.%20String%20to%20Integer%20(atoi))|Medium|
 |009|Palindrome Number|Easy|
 |010|Regular Expression Matching|Hard|
 |011|[Container With Most Water](https://github.com/hyang012/leetcode-algorithms-questions/011.%20Container%20With%20Most%20Water)|Medium|
-|012|Integer to Roman|Medium|
+|012|[Integer to Roman](https://github.com/hyang012/leetcode-algorithms-questions/012.%20Integer%20to%20Roman)|Medium|
 |013|[Roman to Integer](https://github.com/hyang012/leetcode-algorithms-questions/013.%20Roman%20to%20Integer)|Easy|
 |014|[Longest Common Prefix](https://github.com/hyang012/leetcode-algorithms-questions/014.%20Longest%20Common%20Prefix)|Easy|
 |015|[3Sum](https://github.com/hyang012/leetcode-algorithms-questions/015.%203Sum)|Medium|
 |016|[3Sum Closest](https://github.com/hyang012/leetcode-algorithms-questions/016.%203Sum%20Closest)|Medium|
-|017|Letter Combinations of a Phone Number|Medium|
+|017|[Letter Combinations of a Phone Number](https://github.com/hyang012/leetcode-algorithms-questions/017.%20Letter%20Combinations%20of%20a%20Phone%20Number)|Medium|
 |018|4Sum|Medium|
 |019|Remove Nth Node From End of List|Medium|
 |020|[Valid Parentheses](https://github.com/hyang012/leetcode-algorithms-questions/020.%20Valid%20Parentheses)|Easy|
 |021|Merge Two Sorted Lists|Easy|
-|022|Generate Parentheses|Medium|
+|022|[Generate Parentheses](https://github.com/hyang012/leetcode-algorithms-questions/022.%20Generate%20Parentheses)|Medium|
 |023|Merge k Sorted Lists|Hard|
 |024|Swap Nodes in Pairs|Medium|
 |025|Reverse Nodes in k-Group|Hard|
@@ -827,7 +827,11 @@
 |877|Stone Game|Medium|
 |878|Nth Magical Number|Hard|
 |879|Profitable Schemes|Hard|
-|880|Random Pick with Weight|Medium|
-|881|Random Flip Matrix|Medium|
-|882|Random Point in Non-overlapping Rectangles|Medium|
-|883|Generate Random Point in a Circle|Medium|
+|528|Random Pick with Weight|Medium|
+|519|Random Flip Matrix|Medium|
+|497|Random Point in Non-overlapping Rectangles|Medium|
+|478|Generate Random Point in a Circle|Medium|
+|884|Decoded String at Index|Medium|
+|885|Boats to Save People|Medium|
+|886|Reachable Nodes In Subdivided Graph|Hard|
+|887|Projection Area of 3D Shapes|Easy|
