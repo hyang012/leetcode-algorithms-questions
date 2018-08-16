@@ -1,4 +1,4 @@
-# Until 2018-08-09 00:35:56, I have solved **50** / **831** problems.
+# Until 2018-08-16 11:40:55, I have solved **54** / **835** problems.
 
 ----------------
 ## LeetCode Solution Table
@@ -46,13 +46,13 @@
 |040|[Combination Sum II](https://github.com/hyang012/leetcode-algorithms-questions/040.%20Combination%20Sum%20II)|Medium|
 |041|First Missing Positive|Hard|
 |042|Trapping Rain Water|Hard|
-|043|Multiply Strings|Medium|
+|043|[Multiply Strings](https://github.com/hyang012/leetcode-algorithms-questions/043.%20Multiply%20Strings)|Medium|
 |044|Wildcard Matching|Hard|
 |045|Jump Game II|Hard|
 |046|Permutations|Medium|
 |047|Permutations II|Medium|
 |048|[Rotate Image](https://github.com/hyang012/leetcode-algorithms-questions/048.%20Rotate%20Image)|Medium|
-|049|Group Anagrams|Medium|
+|049|[Group Anagrams](https://github.com/hyang012/leetcode-algorithms-questions/049.%20Group%20Anagrams)|Medium|
 |050|Pow(x, n)|Medium|
 |051|N-Queens|Hard|
 |052|N-Queens II|Hard|
@@ -74,7 +74,7 @@
 |068|Text Justification|Hard|
 |069|Sqrt(x)|Easy|
 |070|Climbing Stairs|Easy|
-|071|Simplify Path|Medium|
+|071|[Simplify Path](https://github.com/hyang012/leetcode-algorithms-questions/071.%20Simplify%20Path)|Medium|
 |072|Edit Distance|Hard|
 |073|Set Matrix Zeroes|Medium|
 |074|Search a 2D Matrix|Medium|
@@ -94,7 +94,7 @@
 |088|[Merge Sorted Array](https://github.com/hyang012/leetcode-algorithms-questions/088.%20Merge%20Sorted%20Array)|Easy|
 |089|Gray Code|Medium|
 |090|Subsets II|Medium|
-|091|Decode Ways|Medium|
+|091|[Decode Ways](https://github.com/hyang012/leetcode-algorithms-questions/091.%20Decode%20Ways)|Medium|
 |092|Reverse Linked List II|Medium|
 |093|Restore IP Addresses|Medium|
 |094|Binary Tree Inorder Traversal|Medium|
@@ -831,7 +831,11 @@
 |519|Random Flip Matrix|Medium|
 |497|Random Point in Non-overlapping Rectangles|Medium|
 |478|Generate Random Point in a Circle|Medium|
-|884|Decoded String at Index|Medium|
-|885|Boats to Save People|Medium|
-|886|Reachable Nodes In Subdivided Graph|Hard|
-|887|Projection Area of 3D Shapes|Easy|
+|880|Decoded String at Index|Medium|
+|881|Boats to Save People|Medium|
+|882|Reachable Nodes In Subdivided Graph|Hard|
+|883|Projection Area of 3D Shapes|Easy|
+|884|Uncommon Words from Two Sentences|Easy|
+|885|Spiral Matrix III|Medium|
+|886|Possible Bipartition|Medium|
+|887|Super Egg Drop|Hard|
