@@ -24,21 +24,24 @@ def compareVersion(version1, version2):
     version1 = version1.split('.')
     version2 = version2.split('.')
     
-    for i in range(min(len(version1), len(version2))):
-        if int(version1[i]) < int(version2[i]):
-            return -1
-        elif int(version1[i]) > int(version2[i]):
-            return 1
+    for i in range(max(len(version1), len(version2))):
+        if i < len(version1) and i < len(version2):
+            if int(version1[i]) < int(version2[i]):
+                return -1
+            elif int(version1[i]) > int(version2[i]):
+                return 1
+        elif i >= len(version1):
+            if 0 != int(version2[i]):
+                return -1
+        else:
+            if 0 != int(version1[i]):
+                return 1
     
-    if i + 1 == len(version1) == len(version2):
-        return 0
-    elif i + 1 < len(version1):
-        return 1
-    else:
-        return -1
+    return 0
     
         
 print(compareVersion('0.1', '1.1'))
 print(compareVersion('1.0.1', '1'))
 print(compareVersion('0.1', '1.1'))
 print(compareVersion('01', '1'))
+print(compareVersion('1.0.0', '1'))
