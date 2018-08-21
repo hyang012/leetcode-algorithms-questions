@@ -1,4 +1,4 @@
-# Until 2018-08-17 16:46:57, I have solved **57** / **835** problems.
+# Until 2018-08-21 10:37:17, I have solved **58** / **839** problems.
 
 ----------------
 ## LeetCode Solution Table
@@ -214,7 +214,7 @@
 |224|Basic Calculator|Hard|
 |225|Implement Stack using Queues|Easy|
 |226|Invert Binary Tree|Easy|
-|227|Basic Calculator II|Medium|
+|227|[Basic Calculator II](https://github.com/hyang012/leetcode-algorithms-questions/227.%20Basic%20Calculator%20II)|Medium|
 |228|Summary Ranges|Medium|
 |229|Majority Element II|Medium|
 |230|Kth Smallest Element in a BST|Medium|
@@ -839,3 +839,7 @@
 |885|Spiral Matrix III|Medium|
 |886|Possible Bipartition|Medium|
 |887|Super Egg Drop|Hard|
+|888|Fair Candy Swap|Easy|
+|889|Construct Binary Tree from Preorder and Postorder Traversal|Medium|
+|890|Find and Replace Pattern|Medium|
+|891|Sum of Subsequence Widths|Hard|
