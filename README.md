@@ -1,4 +1,4 @@
-# Until 2018-08-21 10:37:17, I have solved **58** / **839** problems.
+# Until 2018-08-23 15:42:43, I have solved **62** / **839** problems.
 
 ----------------
 ## LeetCode Solution Table
@@ -21,7 +21,7 @@
 |015|[3Sum](https://github.com/hyang012/leetcode-algorithms-questions/015.%203Sum)|Medium|
 |016|[3Sum Closest](https://github.com/hyang012/leetcode-algorithms-questions/016.%203Sum%20Closest)|Medium|
 |017|[Letter Combinations of a Phone Number](https://github.com/hyang012/leetcode-algorithms-questions/017.%20Letter%20Combinations%20of%20a%20Phone%20Number)|Medium|
-|018|4Sum|Medium|
+|018|[4Sum](https://github.com/hyang012/leetcode-algorithms-questions/018.%204Sum)|Medium|
 |019|Remove Nth Node From End of List|Medium|
 |020|[Valid Parentheses](https://github.com/hyang012/leetcode-algorithms-questions/020.%20Valid%20Parentheses)|Easy|
 |021|Merge Two Sorted Lists|Easy|
@@ -62,10 +62,10 @@
 |056|[Merge Intervals](https://github.com/hyang012/leetcode-algorithms-questions/056.%20Merge%20Intervals)|Medium|
 |057|Insert Interval|Hard|
 |058|[Length of Last Word](https://github.com/hyang012/leetcode-algorithms-questions/058.%20Length%20of%20Last%20Word)|Easy|
-|059|Spiral Matrix II|Medium|
+|059|[Spiral Matrix II](https://github.com/hyang012/leetcode-algorithms-questions/059.%20Spiral%20Matrix%20II)|Medium|
 |060|Permutation Sequence|Medium|
 |061|Rotate List|Medium|
-|062|Unique Paths|Medium|
+|062|[Unique Paths](https://github.com/hyang012/leetcode-algorithms-questions/062.%20Unique%20Paths)|Medium|
 |063|Unique Paths II|Medium|
 |064|Minimum Path Sum|Medium|
 |065|Valid Number|Hard|
@@ -371,7 +371,7 @@
 |382|Linked List Random Node|Medium|
 |383|[Ransom Note](https://github.com/hyang012/leetcode-algorithms-questions/383.%20Ransom%20Note)|Easy|
 |384|Shuffle an Array|Medium|
-|385|Mini Parser|Medium|
+|385|[Mini Parser](https://github.com/hyang012/leetcode-algorithms-questions/385.%20Mini%20Parser)|Medium|
 |386|Lexicographical Numbers|Medium|
 |387|[First Unique Character in a String](https://github.com/hyang012/leetcode-algorithms-questions/387.%20First%20Unique%20Character%20in%20a%20String)|Easy|
 |388|Longest Absolute File Path|Medium|
