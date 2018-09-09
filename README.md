@@ -1,4 +1,4 @@
-# Until 2018-08-23 15:42:43, I have solved **62** / **839** problems.
+# Until 2018-09-08 23:04:06, I have solved **64** / **847** problems.
 
 ----------------
 ## LeetCode Solution Table
@@ -66,8 +66,8 @@
 |060|Permutation Sequence|Medium|
 |061|Rotate List|Medium|
 |062|[Unique Paths](https://github.com/hyang012/leetcode-algorithms-questions/062.%20Unique%20Paths)|Medium|
-|063|Unique Paths II|Medium|
-|064|Minimum Path Sum|Medium|
+|063|[Unique Paths II](https://github.com/hyang012/leetcode-algorithms-questions/063.%20Unique%20Paths%20II)|Medium|
+|064|[Minimum Path Sum](https://github.com/hyang012/leetcode-algorithms-questions/064.%20Minimum%20Path%20Sum)|Medium|
 |065|Valid Number|Hard|
 |066|[Plus One](https://github.com/hyang012/leetcode-algorithms-questions/066.%20Plus%20One)|Easy|
 |067|[Add Binary](https://github.com/hyang012/leetcode-algorithms-questions/067.%20Add%20Binary)|Easy|
@@ -76,7 +76,7 @@
 |070|Climbing Stairs|Easy|
 |071|[Simplify Path](https://github.com/hyang012/leetcode-algorithms-questions/071.%20Simplify%20Path)|Medium|
 |072|Edit Distance|Hard|
-|073|Set Matrix Zeroes|Medium|
+|073|[Set Matrix Zeroes](https://github.com/hyang012/leetcode-algorithms-questions/073.%20Set%20Matrix%20Zeroes)|Medium|
 |074|Search a 2D Matrix|Medium|
 |075|Sort Colors|Medium|
 |076|Minimum Window Substring|Hard|
@@ -590,7 +590,7 @@
 |654|Maximum Binary Tree|Medium|
 |655|Print Binary Tree|Medium|
 |656|Coin Path|Hard|
-|657|Judge Route Circle|Easy|
+|657|Robot Return to Origin|Easy|
 |658|Find K Closest Elements|Medium|
 |659|Split Array into Consecutive Subsequences|Medium|
 |660|Remove 9|Hard|
@@ -843,3 +843,11 @@
 |889|Construct Binary Tree from Preorder and Postorder Traversal|Medium|
 |890|Find and Replace Pattern|Medium|
 |891|Sum of Subsequence Widths|Hard|
+|892|Surface Area of 3D Shapes|Easy|
+|893|Groups of Special-Equivalent Strings|Easy|
+|894|All Possible Full Binary Trees|Medium|
+|895|Maximum Frequency Stack|Hard|
+|896|Monotonic Array|Easy|
+|897|Increasing Order Search Tree|Easy|
+|898|Bitwise ORs of Subarrays|Medium|
+|899|Orderly Queue|Hard|

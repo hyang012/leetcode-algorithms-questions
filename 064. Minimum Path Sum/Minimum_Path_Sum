@@ -1,0 +1,85 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Leetcode 64. Minimum Path Sum
+
+Given a m*n grid filled with non-negative numbers, find a path from top left
+to bottom right which minimizes the sum of all numbers along it path.
+
+Note: You can only move either down or right at any point in time.
+"""
+#
+## Backtracking
+#def miniPathSum(grid):
+#    """
+#    :type grid: List[List[int]]
+#    :rtype: int
+#    """
+#        
+#    paths = []    
+#    if not grid:
+#        return 0
+#    m, n = len(grid), len(grid[0])
+#    miniPathSumHelper(0, 0, m-1, n-1, grid, paths, 0)
+#    return min(paths)
+#    
+#def miniPathSumHelper(i, j, m, n, grid, paths, cur_sum):    
+#    if i == m and j == n:
+#        cur_sum += grid[i][j]
+#        paths.append(cur_sum)
+#    else:
+#        cur = grid[i][j]
+#        if i < m:
+#            miniPathSumHelper(i+1, j, m, n, grid, paths, cur_sum+cur)
+#        if j < n:
+#            miniPathSumHelper(i, j+1, m, n, grid, paths, cur_sum+cur)
+
+
+## DP with Memoization
+#def miniPathSum(grid):
+#    """
+#    :type grid: List[List[int]]
+#    :rtype: int
+#    """
+#    m, n = len(grid), len(grid[0])
+#    memo = [[-1 for _ in range(n)] for _ in range(m)]
+#    return miniPathSumHelper(0, 0, m-1, n-1, grid, memo)
+#    
+#def miniPathSumHelper(i, j, m, n, grid, memo):    
+#    if i == m and j == n:
+#        return grid[i][j]
+#    
+#    if memo[i][j] != -1:
+#        return memo[i][j]
+#    
+#    down_inc, left_inc = float('Inf'), float('Inf')
+#    if i < m:
+#        down_inc = miniPathSumHelper(i+1, j, m, n, grid, memo)
+#    if j < n:
+#        left_inc = miniPathSumHelper(i, j+1, m, n, grid, memo)
+#    memo[i][j] = min(down_inc, left_inc) + grid[i][j]
+#    return memo[i][j]
+
+
+# DP
+def miniPathSum(grid):
+    """
+    :type grid: List[List[int]]
+    :rtype: int
+    """
+    m, n = len(grid), len(grid[0])
+    for i in range(m-1, -1, -1):
+        for j in range(n-1, -1, -1):
+            if i == m-1 and j == n-1:
+                continue
+            elif i < m-1 and j < n-1:
+                grid[i][j] += min(grid[i+1][j], grid[i][j+1])
+            elif i == m-1:
+                grid[i][j] += grid[i][j+1]
+            else:
+                grid[i][j] += grid[i+1][j]
+    return grid[0][0]
+
+    
+print(miniPathSum([[1,3,1], [1,5,1], [4, 2, 1]]))
+    
