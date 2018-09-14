@@ -1,4 +1,4 @@
-# Until 2018-09-08 23:04:06, I have solved **64** / **847** problems.
+# Until 2018-09-13 17:01:39, I have solved **66** / **851** problems.
 
 ----------------
 ## LeetCode Solution Table
@@ -77,8 +77,8 @@
 |071|[Simplify Path](https://github.com/hyang012/leetcode-algorithms-questions/071.%20Simplify%20Path)|Medium|
 |072|Edit Distance|Hard|
 |073|[Set Matrix Zeroes](https://github.com/hyang012/leetcode-algorithms-questions/073.%20Set%20Matrix%20Zeroes)|Medium|
-|074|Search a 2D Matrix|Medium|
-|075|Sort Colors|Medium|
+|074|[Search a 2D Matrix](https://github.com/hyang012/leetcode-algorithms-questions/074.%20Search%20a%202D%20Matrix)|Medium|
+|075|[Sort Colors](https://github.com/hyang012/leetcode-algorithms-questions/075.%20Sort%20Colors)|Medium|
 |076|Minimum Window Substring|Hard|
 |077|Combinations|Medium|
 |078|Subsets|Medium|
@@ -851,3 +851,7 @@
 |897|Increasing Order Search Tree|Easy|
 |898|Bitwise ORs of Subarrays|Medium|
 |899|Orderly Queue|Hard|
+|900|RLE Iterator|Medium|
+|901|Online Stock Span|Medium|
+|902|Numbers At Most N Given Digit Set|Hard|
+|903|Valid Permutations for DI Sequence|Hard|
