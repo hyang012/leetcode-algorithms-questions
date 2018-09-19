@@ -1,4 +1,4 @@
-# Until 2018-09-13 17:01:39, I have solved **66** / **851** problems.
+# Until 2018-09-19 16:32:40, I have solved **69** / **855** problems.
 
 ----------------
 ## LeetCode Solution Table
@@ -81,9 +81,9 @@
 |075|[Sort Colors](https://github.com/hyang012/leetcode-algorithms-questions/075.%20Sort%20Colors)|Medium|
 |076|Minimum Window Substring|Hard|
 |077|Combinations|Medium|
-|078|Subsets|Medium|
-|079|Word Search|Medium|
-|080|Remove Duplicates from Sorted Array II|Medium|
+|078|[Subsets](https://github.com/hyang012/leetcode-algorithms-questions/078.%20Subsets)|Medium|
+|079|[Word Search](https://github.com/hyang012/leetcode-algorithms-questions/079.%20Word%20Search)|Medium|
+|080|[Remove Duplicates from Sorted Array II](https://github.com/hyang012/leetcode-algorithms-questions/080.%20Remove%20Duplicates%20from%20Sorted%20Array%20II)|Medium|
 |081|Search in Rotated Sorted Array II|Medium|
 |082|Remove Duplicates from Sorted List II|Medium|
 |083|Remove Duplicates from Sorted List|Easy|
@@ -855,3 +855,7 @@
 |901|Online Stock Span|Medium|
 |902|Numbers At Most N Given Digit Set|Hard|
 |903|Valid Permutations for DI Sequence|Hard|
+|904|Fruit Into Baskets|Medium|
+|905|Sort Array By Parity|Easy|
+|906|Super Palindromes|Hard|
+|907|Sum of Subarray Minimums|Medium|
