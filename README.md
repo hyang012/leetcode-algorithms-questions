@@ -1,4 +1,4 @@
-# Until 2018-09-19 16:32:40, I have solved **69** / **855** problems.
+# Until 2018-10-05 11:25:14, I have solved **78** / **863** problems.
 
 ----------------
 ## LeetCode Solution Table
@@ -84,7 +84,7 @@
 |078|[Subsets](https://github.com/hyang012/leetcode-algorithms-questions/078.%20Subsets)|Medium|
 |079|[Word Search](https://github.com/hyang012/leetcode-algorithms-questions/079.%20Word%20Search)|Medium|
 |080|[Remove Duplicates from Sorted Array II](https://github.com/hyang012/leetcode-algorithms-questions/080.%20Remove%20Duplicates%20from%20Sorted%20Array%20II)|Medium|
-|081|Search in Rotated Sorted Array II|Medium|
+|081|[Search in Rotated Sorted Array II](https://github.com/hyang012/leetcode-algorithms-questions/081.%20Search%20in%20Rotated%20Sorted%20Array%20II)|Medium|
 |082|Remove Duplicates from Sorted List II|Medium|
 |083|Remove Duplicates from Sorted List|Easy|
 |084|Largest Rectangle in Histogram|Hard|
@@ -93,7 +93,7 @@
 |087|Scramble String|Hard|
 |088|[Merge Sorted Array](https://github.com/hyang012/leetcode-algorithms-questions/088.%20Merge%20Sorted%20Array)|Easy|
 |089|Gray Code|Medium|
-|090|Subsets II|Medium|
+|090|[Subsets II](https://github.com/hyang012/leetcode-algorithms-questions/090.%20Subsets%20II)|Medium|
 |091|[Decode Ways](https://github.com/hyang012/leetcode-algorithms-questions/091.%20Decode%20Ways)|Medium|
 |092|Reverse Linked List II|Medium|
 |093|[Restore IP Addresses](https://github.com/hyang012/leetcode-algorithms-questions/093.%20Restore%20IP%20Addresses)|Medium|
@@ -155,8 +155,8 @@
 |149|Max Points on a Line|Hard|
 |150|Evaluate Reverse Polish Notation|Medium|
 |151|[Reverse Words in a String](https://github.com/hyang012/leetcode-algorithms-questions/151.%20Reverse%20Words%20in%20a%20String)|Medium|
-|152|Maximum Product Subarray|Medium|
-|153|Find Minimum in Rotated Sorted Array|Medium|
+|152|[Maximum Product Subarray](https://github.com/hyang012/leetcode-algorithms-questions/152.%20Maximum%20Product%20Subarray)|Medium|
+|153|[Find Minimum in Rotated Sorted Array](https://github.com/hyang012/leetcode-algorithms-questions/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array)|Medium|
 |154|Find Minimum in Rotated Sorted Array II|Hard|
 |155|Min Stack|Easy|
 |156|Binary Tree Upside Down|Medium|
@@ -165,7 +165,7 @@
 |159|Longest Substring with At Most Two Distinct Characters|Hard|
 |160|Intersection of Two Linked Lists|Easy|
 |161|One Edit Distance|Medium|
-|162|Find Peak Element|Medium|
+|162|[Find Peak Element](https://github.com/hyang012/leetcode-algorithms-questions/162.%20Find%20Peak%20Element)|Medium|
 |163|Missing Ranges|Medium|
 |164|Maximum Gap|Hard|
 |165|[Compare Version Numbers](https://github.com/hyang012/leetcode-algorithms-questions/165.%20Compare%20Version%20Numbers)|Medium|
@@ -196,14 +196,14 @@
 |206|Reverse Linked List|Easy|
 |207|Course Schedule|Medium|
 |208|Implement Trie (Prefix Tree)|Medium|
-|209|Minimum Size Subarray Sum|Medium|
+|209|[Minimum Size Subarray Sum](https://github.com/hyang012/leetcode-algorithms-questions/209.%20Minimum%20Size%20Subarray%20Sum)|Medium|
 |210|Course Schedule II|Medium|
 |211|Add and Search Word - Data structure design|Medium|
 |212|Word Search II|Hard|
 |213|House Robber II|Medium|
 |214|Shortest Palindrome|Hard|
 |215|Kth Largest Element in an Array|Medium|
-|216|Combination Sum III|Medium|
+|216|[Combination Sum III](https://github.com/hyang012/leetcode-algorithms-questions/216.%20Combination%20Sum%20III)|Medium|
 |217|[Contains Duplicate](https://github.com/hyang012/leetcode-algorithms-questions/217.%20Contains%20Duplicate)|Easy|
 |218|The Skyline Problem|Hard|
 |219|[Contains Duplicate II](https://github.com/hyang012/leetcode-algorithms-questions/219.%20Contains%20Duplicate%20II)|Easy|
@@ -215,8 +215,8 @@
 |225|Implement Stack using Queues|Easy|
 |226|Invert Binary Tree|Easy|
 |227|[Basic Calculator II](https://github.com/hyang012/leetcode-algorithms-questions/227.%20Basic%20Calculator%20II)|Medium|
-|228|Summary Ranges|Medium|
-|229|Majority Element II|Medium|
+|228|[Summary Ranges](https://github.com/hyang012/leetcode-algorithms-questions/228.%20Summary%20Ranges)|Medium|
+|229|[Majority Element II](https://github.com/hyang012/leetcode-algorithms-questions/229.%20Majority%20Element%20II)|Medium|
 |230|Kth Smallest Element in a BST|Medium|
 |231|Power of Two|Easy|
 |232|Implement Queue using Stacks|Easy|
@@ -859,3 +859,11 @@
 |905|Sort Array By Parity|Easy|
 |906|Super Palindromes|Hard|
 |907|Sum of Subarray Minimums|Medium|
+|908|Smallest Range I|Easy|
+|909|Snakes and Ladders|Medium|
+|910|Smallest Range II|Medium|
+|911|Online Election|Medium|
+|913|Cat and Mouse|Hard|
+|914|X of a Kind in a Deck of Cards|Easy|
+|915|Partition Array into Disjoint Intervals|Medium|
+|916|Word Subsets|Medium|
