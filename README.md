@@ -1,4 +1,4 @@
-# Until 2018-10-05 11:25:14, I have solved **78** / **863** problems.
+# Until 2018-10-09 11:39:07, I have solved **82** / **867** problems.
 
 ----------------
 ## LeetCode Solution Table
@@ -225,7 +225,7 @@
 |235|Lowest Common Ancestor of a Binary Search Tree|Easy|
 |236|Lowest Common Ancestor of a Binary Tree|Medium|
 |237|Delete Node in a Linked List|Easy|
-|238|Product of Array Except Self|Medium|
+|238|[Product of Array Except Self](https://github.com/hyang012/leetcode-algorithms-questions/238.%20Product%20of%20Array%20Except%20Self)|Medium|
 |239|Sliding Window Maximum|Hard|
 |240|Search a 2D Matrix II|Medium|
 |241|Different Ways to Add Parentheses|Medium|
@@ -273,9 +273,9 @@
 |284|Peeking Iterator|Medium|
 |285|Inorder Successor in BST|Medium|
 |286|Walls and Gates|Medium|
-|287|Find the Duplicate Number|Medium|
+|287|[Find the Duplicate Number](https://github.com/hyang012/leetcode-algorithms-questions/287.%20Find%20the%20Duplicate%20Number)|Medium|
 |288|Unique Word Abbreviation|Medium|
-|289|Game of Life|Medium|
+|289|[Game of Life](https://github.com/hyang012/leetcode-algorithms-questions/289.%20Game%20of%20Life)|Medium|
 |290|Word Pattern|Easy|
 |291|Word Pattern II|Hard|
 |292|Nim Game|Easy|
@@ -366,7 +366,7 @@
 |377|Combination Sum IV|Medium|
 |378|Kth Smallest Element in a Sorted Matrix|Medium|
 |379|Design Phone Directory|Medium|
-|380|Insert Delete GetRandom O(1)|Medium|
+|380|[Insert Delete GetRandom O(1)](https://github.com/hyang012/leetcode-algorithms-questions/380.%20Insert%20Delete%20GetRandom%20O(1))|Medium|
 |381|Insert Delete GetRandom O(1) - Duplicates allowed|Hard|
 |382|Linked List Random Node|Medium|
 |383|[Ransom Note](https://github.com/hyang012/leetcode-algorithms-questions/383.%20Ransom%20Note)|Easy|
@@ -867,3 +867,7 @@
 |914|X of a Kind in a Deck of Cards|Easy|
 |915|Partition Array into Disjoint Intervals|Medium|
 |916|Word Subsets|Medium|
+|917|Reverse Only Letters|Easy|
+|918|Maximum Sum Circular Subarray|Medium|
+|919|Complete Binary Tree Inserter|Medium|
+|920|Number of Music Playlists|Hard|
