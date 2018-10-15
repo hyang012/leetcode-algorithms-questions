@@ -1,4 +1,4 @@
-# Until 2018-10-09 11:39:07, I have solved **82** / **867** problems.
+# Until 2018-10-14 23:12:12, I have solved **89** / **871** problems.
 
 ----------------
 ## LeetCode Solution Table
@@ -24,7 +24,7 @@
 |018|[4Sum](https://github.com/hyang012/leetcode-algorithms-questions/018.%204Sum)|Medium|
 |019|Remove Nth Node From End of List|Medium|
 |020|[Valid Parentheses](https://github.com/hyang012/leetcode-algorithms-questions/020.%20Valid%20Parentheses)|Easy|
-|021|Merge Two Sorted Lists|Easy|
+|021|[Merge Two Sorted Lists](https://github.com/hyang012/leetcode-algorithms-questions/021.%20Merge%20Two%20Sorted%20Lists)|Easy|
 |022|[Generate Parentheses](https://github.com/hyang012/leetcode-algorithms-questions/022.%20Generate%20Parentheses)|Medium|
 |023|Merge k Sorted Lists|Hard|
 |024|Swap Nodes in Pairs|Medium|
@@ -86,7 +86,7 @@
 |080|[Remove Duplicates from Sorted Array II](https://github.com/hyang012/leetcode-algorithms-questions/080.%20Remove%20Duplicates%20from%20Sorted%20Array%20II)|Medium|
 |081|[Search in Rotated Sorted Array II](https://github.com/hyang012/leetcode-algorithms-questions/081.%20Search%20in%20Rotated%20Sorted%20Array%20II)|Medium|
 |082|Remove Duplicates from Sorted List II|Medium|
-|083|Remove Duplicates from Sorted List|Easy|
+|083|[Remove Duplicates from Sorted List](https://github.com/hyang012/leetcode-algorithms-questions/083.%20Remove%20Duplicates%20from%20Sorted%20List)|Easy|
 |084|Largest Rectangle in Histogram|Hard|
 |085|Maximal Rectangle|Hard|
 |086|Partition List|Medium|
@@ -144,7 +144,7 @@
 |138|Copy List with Random Pointer|Medium|
 |139|Word Break|Medium|
 |140|Word Break II|Hard|
-|141|Linked List Cycle|Easy|
+|141|[Linked List Cycle](https://github.com/hyang012/leetcode-algorithms-questions/141.%20Linked%20List%20Cycle)|Easy|
 |142|Linked List Cycle II|Medium|
 |143|Reorder List|Medium|
 |144|Binary Tree Preorder Traversal|Medium|
@@ -163,7 +163,7 @@
 |157|Read N Characters Given Read4|Easy|
 |158|Read N Characters Given Read4 II - Call multiple times|Hard|
 |159|Longest Substring with At Most Two Distinct Characters|Hard|
-|160|Intersection of Two Linked Lists|Easy|
+|160|[Intersection of Two Linked Lists](https://github.com/hyang012/leetcode-algorithms-questions/160.%20Intersection%20of%20Two%20Linked%20Lists)|Easy|
 |161|One Edit Distance|Medium|
 |162|[Find Peak Element](https://github.com/hyang012/leetcode-algorithms-questions/162.%20Find%20Peak%20Element)|Medium|
 |163|Missing Ranges|Medium|
@@ -190,10 +190,10 @@
 |200|Number of Islands|Medium|
 |201|Bitwise AND of Numbers Range|Medium|
 |202|Happy Number|Easy|
-|203|Remove Linked List Elements|Easy|
+|203|[Remove Linked List Elements](https://github.com/hyang012/leetcode-algorithms-questions/203.%20Remove%20Linked%20List%20Elements)|Easy|
 |204|Count Primes|Easy|
 |205|Isomorphic Strings|Easy|
-|206|Reverse Linked List|Easy|
+|206|[Reverse Linked List](https://github.com/hyang012/leetcode-algorithms-questions/206.%20Reverse%20Linked%20List)|Easy|
 |207|Course Schedule|Medium|
 |208|Implement Trie (Prefix Tree)|Medium|
 |209|[Minimum Size Subarray Sum](https://github.com/hyang012/leetcode-algorithms-questions/209.%20Minimum%20Size%20Subarray%20Sum)|Medium|
@@ -221,7 +221,7 @@
 |231|Power of Two|Easy|
 |232|Implement Queue using Stacks|Easy|
 |233|Number of Digit One|Hard|
-|234|Palindrome Linked List|Easy|
+|234|[Palindrome Linked List](https://github.com/hyang012/leetcode-algorithms-questions/234.%20Palindrome%20Linked%20List)|Easy|
 |235|Lowest Common Ancestor of a Binary Search Tree|Easy|
 |236|Lowest Common Ancestor of a Binary Tree|Medium|
 |237|Delete Node in a Linked List|Easy|
@@ -638,7 +638,7 @@
 |713|Subarray Product Less Than K|Medium|
 |714|Best Time to Buy and Sell Stock with Transaction Fee|Medium|
 |715|Range Module|Hard|
-|716|Max Stack|Hard|
+|716|Max Stack|Easy|
 |717|1-bit and 2-bit Characters|Easy|
 |718|Maximum Length of Repeated Subarray|Medium|
 |719|Find K-th Smallest Pair Distance|Hard|
@@ -666,18 +666,18 @@
 |741|Cherry Pickup|Hard|
 |709|To Lower Case|Easy|
 |742|Closest Leaf in a Binary Tree|Medium|
-|743|Network Delay Time|Medium|
+|743|Network Delay Time|Easy|
 |744|Find Smallest Letter Greater Than Target|Easy|
 |745|Prefix and Suffix Search|Hard|
 |746|Min Cost Climbing Stairs|Easy|
 |747|Largest Number At Least Twice of Others|Easy|
-|748|Shortest Completing Word|Medium|
+|748|Shortest Completing Word|Easy|
 |749|Contain Virus|Hard|
 |750|Number Of Corner Rectangles|Medium|
 |751|IP to CIDR|Easy|
 |752|Open the Lock|Medium|
 |753|Cracking the Safe|Hard|
-|754|Reach a Number|Medium|
+|754|Reach a Number|Easy|
 |755|Pour Water|Medium|
 |756|Pyramid Transition Matrix|Medium|
 |426|Convert Binary Search Tree to Sorted Doubly Linked List|Medium|
@@ -771,7 +771,7 @@
 |826|Most Profit Assigning Work|Medium|
 |827|Making A Large Island|Hard|
 |828|Unique Letter String|Hard|
-|829|Consecutive Numbers Sum|Medium|
+|829|Consecutive Numbers Sum|Hard|
 |830|Positions of Large Groups|Easy|
 |831|Masking Personal Information|Medium|
 |641|Design Circular Deque|Medium|
@@ -871,3 +871,7 @@
 |918|Maximum Sum Circular Subarray|Medium|
 |919|Complete Binary Tree Inserter|Medium|
 |920|Number of Music Playlists|Hard|
+|921|Minimum Add to Make Parentheses Valid|Medium|
+|922|Sort Array By Parity II|Easy|
+|923|3Sum With Multiplicity|Medium|
+|924|Minimize Malware Spread|Hard|
