@@ -1,11 +1,11 @@
-# Until 2018-10-14 23:12:12, I have solved **89** / **871** problems.
+# Until 2018-10-16 15:12:19, I have solved **91** / **871** problems.
 
 ----------------
 ## LeetCode Solution Table
 | ID | Title | Difficulty | 
 |:---:|:---:|:---:|
 |001|[Two Sum](https://github.com/hyang012/leetcode-algorithms-questions/001.%20Two%20Sum)|Easy|
-|002|Add Two Numbers|Medium|
+|002|[Add Two Numbers](https://github.com/hyang012/leetcode-algorithms-questions/002.%20Add%20Two%20Numbers)|Medium|
 |003|[Longest Substring Without Repeating Characters](https://github.com/hyang012/leetcode-algorithms-questions/003.%20Longest%20Substring%20Without%20Repeating%20Characters)|Medium|
 |004|Median of Two Sorted Arrays|Hard|
 |005|[Longest Palindromic Substring](https://github.com/hyang012/leetcode-algorithms-questions/005.%20Longest%20Palindromic%20Substring)|Medium|
@@ -224,7 +224,7 @@
 |234|[Palindrome Linked List](https://github.com/hyang012/leetcode-algorithms-questions/234.%20Palindrome%20Linked%20List)|Easy|
 |235|Lowest Common Ancestor of a Binary Search Tree|Easy|
 |236|Lowest Common Ancestor of a Binary Tree|Medium|
-|237|Delete Node in a Linked List|Easy|
+|237|[Delete Node in a Linked List](https://github.com/hyang012/leetcode-algorithms-questions/237.%20Delete%20Node%20in%20a%20Linked%20List)|Easy|
 |238|[Product of Array Except Self](https://github.com/hyang012/leetcode-algorithms-questions/238.%20Product%20of%20Array%20Except%20Self)|Medium|
 |239|Sliding Window Maximum|Hard|
 |240|Search a 2D Matrix II|Medium|
@@ -628,7 +628,7 @@
 |692|Top K Frequent Words|Medium|
 |693|Binary Number with Alternating Bits|Easy|
 |694|Number of Distinct Islands|Medium|
-|695|Max Area of Island|Easy|
+|695|Max Area of Island|Medium|
 |696|Count Binary Substrings|Easy|
 |697|Degree of an Array|Easy|
 |698|Partition to K Equal Sum Subsets|Medium|
