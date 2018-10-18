@@ -1,4 +1,4 @@
-# Until 2018-10-16 15:12:19, I have solved **91** / **871** problems.
+# Until 2018-10-17 21:08:43, I have solved **94** / **871** problems.
 
 ----------------
 ## LeetCode Solution Table
@@ -22,12 +22,12 @@
 |016|[3Sum Closest](https://github.com/hyang012/leetcode-algorithms-questions/016.%203Sum%20Closest)|Medium|
 |017|[Letter Combinations of a Phone Number](https://github.com/hyang012/leetcode-algorithms-questions/017.%20Letter%20Combinations%20of%20a%20Phone%20Number)|Medium|
 |018|[4Sum](https://github.com/hyang012/leetcode-algorithms-questions/018.%204Sum)|Medium|
-|019|Remove Nth Node From End of List|Medium|
+|019|[Remove Nth Node From End of List](https://github.com/hyang012/leetcode-algorithms-questions/019.%20Remove%20Nth%20Node%20From%20End%20of%20List)|Medium|
 |020|[Valid Parentheses](https://github.com/hyang012/leetcode-algorithms-questions/020.%20Valid%20Parentheses)|Easy|
 |021|[Merge Two Sorted Lists](https://github.com/hyang012/leetcode-algorithms-questions/021.%20Merge%20Two%20Sorted%20Lists)|Easy|
 |022|[Generate Parentheses](https://github.com/hyang012/leetcode-algorithms-questions/022.%20Generate%20Parentheses)|Medium|
 |023|Merge k Sorted Lists|Hard|
-|024|Swap Nodes in Pairs|Medium|
+|024|[Swap Nodes in Pairs](https://github.com/hyang012/leetcode-algorithms-questions/024.%20Swap%20Nodes%20in%20Pairs)|Medium|
 |025|Reverse Nodes in k-Group|Hard|
 |026|[Remove Duplicates from Sorted Array](https://github.com/hyang012/leetcode-algorithms-questions/026.%20Remove%20Duplicates%20from%20Sorted%20Array)|Easy|
 |027|[Remove Element](https://github.com/hyang012/leetcode-algorithms-questions/027.%20Remove%20Element)|Easy|
@@ -64,7 +64,7 @@
 |058|[Length of Last Word](https://github.com/hyang012/leetcode-algorithms-questions/058.%20Length%20of%20Last%20Word)|Easy|
 |059|[Spiral Matrix II](https://github.com/hyang012/leetcode-algorithms-questions/059.%20Spiral%20Matrix%20II)|Medium|
 |060|Permutation Sequence|Medium|
-|061|Rotate List|Medium|
+|061|[Rotate List](https://github.com/hyang012/leetcode-algorithms-questions/061.%20Rotate%20List)|Medium|
 |062|[Unique Paths](https://github.com/hyang012/leetcode-algorithms-questions/062.%20Unique%20Paths)|Medium|
 |063|[Unique Paths II](https://github.com/hyang012/leetcode-algorithms-questions/063.%20Unique%20Paths%20II)|Medium|
 |064|[Minimum Path Sum](https://github.com/hyang012/leetcode-algorithms-questions/064.%20Minimum%20Path%20Sum)|Medium|
