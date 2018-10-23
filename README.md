@@ -1,4 +1,4 @@
-# Until 2018-10-17 21:08:43, I have solved **94** / **871** problems.
+# Until 2018-10-22 22:42:21, I have solved **98** / **875** problems.
 
 ----------------
 ## LeetCode Solution Table
@@ -85,17 +85,17 @@
 |079|[Word Search](https://github.com/hyang012/leetcode-algorithms-questions/079.%20Word%20Search)|Medium|
 |080|[Remove Duplicates from Sorted Array II](https://github.com/hyang012/leetcode-algorithms-questions/080.%20Remove%20Duplicates%20from%20Sorted%20Array%20II)|Medium|
 |081|[Search in Rotated Sorted Array II](https://github.com/hyang012/leetcode-algorithms-questions/081.%20Search%20in%20Rotated%20Sorted%20Array%20II)|Medium|
-|082|Remove Duplicates from Sorted List II|Medium|
+|082|[Remove Duplicates from Sorted List II](https://github.com/hyang012/leetcode-algorithms-questions/082.%20Remove%20Duplicates%20from%20Sorted%20List%20II)|Medium|
 |083|[Remove Duplicates from Sorted List](https://github.com/hyang012/leetcode-algorithms-questions/083.%20Remove%20Duplicates%20from%20Sorted%20List)|Easy|
 |084|Largest Rectangle in Histogram|Hard|
 |085|Maximal Rectangle|Hard|
-|086|Partition List|Medium|
+|086|[Partition List](https://github.com/hyang012/leetcode-algorithms-questions/086.%20Partition%20List)|Medium|
 |087|Scramble String|Hard|
 |088|[Merge Sorted Array](https://github.com/hyang012/leetcode-algorithms-questions/088.%20Merge%20Sorted%20Array)|Easy|
 |089|Gray Code|Medium|
 |090|[Subsets II](https://github.com/hyang012/leetcode-algorithms-questions/090.%20Subsets%20II)|Medium|
 |091|[Decode Ways](https://github.com/hyang012/leetcode-algorithms-questions/091.%20Decode%20Ways)|Medium|
-|092|Reverse Linked List II|Medium|
+|092|[Reverse Linked List II](https://github.com/hyang012/leetcode-algorithms-questions/092.%20Reverse%20Linked%20List%20II)|Medium|
 |093|[Restore IP Addresses](https://github.com/hyang012/leetcode-algorithms-questions/093.%20Restore%20IP%20Addresses)|Medium|
 |094|Binary Tree Inorder Traversal|Medium|
 |095|Unique Binary Search Trees II|Medium|
@@ -141,7 +141,7 @@
 |135|Candy|Hard|
 |136|Single Number|Easy|
 |137|Single Number II|Medium|
-|138|Copy List with Random Pointer|Medium|
+|138|[Copy List with Random Pointer](https://github.com/hyang012/leetcode-algorithms-questions/138.%20Copy%20List%20with%20Random%20Pointer)|Medium|
 |139|Word Break|Medium|
 |140|Word Break II|Hard|
 |141|[Linked List Cycle](https://github.com/hyang012/leetcode-algorithms-questions/141.%20Linked%20List%20Cycle)|Easy|
@@ -875,3 +875,7 @@
 |922|Sort Array By Parity II|Easy|
 |923|3Sum With Multiplicity|Medium|
 |924|Minimize Malware Spread|Hard|
+|925|Long Pressed Name|Easy|
+|926|Flip String to Monotone Increasing|Medium|
+|927|Three Equal Parts|Hard|
+|928|Minimize Malware Spread II|Hard|
