@@ -1,4 +1,4 @@
-# Until 2018-10-22 22:42:21, I have solved **98** / **875** problems.
+# Until 2018-10-25 21:47:14, I have solved **101** / **875** problems.
 
 ----------------
 ## LeetCode Solution Table
@@ -145,12 +145,12 @@
 |139|Word Break|Medium|
 |140|Word Break II|Hard|
 |141|[Linked List Cycle](https://github.com/hyang012/leetcode-algorithms-questions/141.%20Linked%20List%20Cycle)|Easy|
-|142|Linked List Cycle II|Medium|
-|143|Reorder List|Medium|
+|142|[Linked List Cycle II](https://github.com/hyang012/leetcode-algorithms-questions/142.%20Linked%20List%20Cycle%20II)|Medium|
+|143|[Reorder List](https://github.com/hyang012/leetcode-algorithms-questions/143.%20Reorder%20List)|Medium|
 |144|Binary Tree Preorder Traversal|Medium|
 |145|Binary Tree Postorder Traversal|Hard|
 |146|LRU Cache|Hard|
-|147|Insertion Sort List|Medium|
+|147|[Insertion Sort List](https://github.com/hyang012/leetcode-algorithms-questions/147.%20Insertion%20Sort%20List)|Medium|
 |148|Sort List|Medium|
 |149|Max Points on a Line|Hard|
 |150|Evaluate Reverse Polish Notation|Medium|
