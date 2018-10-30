@@ -1,4 +1,4 @@
-# Until 2018-10-25 21:47:14, I have solved **101** / **875** problems.
+# Until 2018-10-30 12:45:18, I have solved **106** / **879** problems.
 
 ----------------
 ## LeetCode Solution Table
@@ -103,11 +103,11 @@
 |097|Interleaving String|Hard|
 |098|Validate Binary Search Tree|Medium|
 |099|Recover Binary Search Tree|Hard|
-|100|Same Tree|Easy|
-|101|Symmetric Tree|Easy|
+|100|[Same Tree](https://github.com/hyang012/leetcode-algorithms-questions/100.%20Same%20Tree)|Easy|
+|101|[Symmetric Tree](https://github.com/hyang012/leetcode-algorithms-questions/101.%20Symmetric%20Tree)|Easy|
 |102|Binary Tree Level Order Traversal|Medium|
 |103|Binary Tree Zigzag Level Order Traversal|Medium|
-|104|Maximum Depth of Binary Tree|Easy|
+|104|[Maximum Depth of Binary Tree](https://github.com/hyang012/leetcode-algorithms-questions/104.%20Maximum%20Depth%20of%20Binary%20Tree)|Easy|
 |105|Construct Binary Tree from Preorder and Inorder Traversal|Medium|
 |106|Construct Binary Tree from Inorder and Postorder Traversal|Medium|
 |107|Binary Tree Level Order Traversal II|Easy|
@@ -151,7 +151,7 @@
 |145|Binary Tree Postorder Traversal|Hard|
 |146|LRU Cache|Hard|
 |147|[Insertion Sort List](https://github.com/hyang012/leetcode-algorithms-questions/147.%20Insertion%20Sort%20List)|Medium|
-|148|Sort List|Medium|
+|148|[Sort List](https://github.com/hyang012/leetcode-algorithms-questions/148.%20Sort%20List)|Medium|
 |149|Max Points on a Line|Hard|
 |150|Evaluate Reverse Polish Notation|Medium|
 |151|[Reverse Words in a String](https://github.com/hyang012/leetcode-algorithms-questions/151.%20Reverse%20Words%20in%20a%20String)|Medium|
@@ -314,7 +314,7 @@
 |325|Maximum Size Subarray Sum Equals k|Medium|
 |326|Power of Three|Easy|
 |327|Count of Range Sum|Hard|
-|328|Odd Even Linked List|Medium|
+|328|[Odd Even Linked List](https://github.com/hyang012/leetcode-algorithms-questions/328.%20Odd%20Even%20Linked%20List)|Medium|
 |329|Longest Increasing Path in a Matrix|Hard|
 |330|Patching Array|Hard|
 |331|Verify Preorder Serialization of a Binary Tree|Medium|
@@ -879,3 +879,7 @@
 |926|Flip String to Monotone Increasing|Medium|
 |927|Three Equal Parts|Hard|
 |928|Minimize Malware Spread II|Hard|
+|929|Unique Email Addresses|Easy|
+|930|Binary Subarrays With Sum|Medium|
+|931|Minimum Falling Path Sum|Medium|
+|932|Beautiful Array|Medium|
