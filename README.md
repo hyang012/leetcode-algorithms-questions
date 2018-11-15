@@ -1,4 +1,4 @@
-# Until 2018-11-14 23:03:19, I have solved **112** / **887** problems.
+# Until 2018-11-15 14:35:34, I have solved **114** / **887** problems.
 
 ----------------
 ## LeetCode Solution Table
@@ -222,7 +222,7 @@
 |232|Implement Queue using Stacks|Easy|
 |233|Number of Digit One|Hard|
 |234|[Palindrome Linked List](https://github.com/hyang012/leetcode-algorithms-questions/234.%20Palindrome%20Linked%20List)|Easy|
-|235|Lowest Common Ancestor of a Binary Search Tree|Easy|
+|235|[Lowest Common Ancestor of a Binary Search Tree](https://github.com/hyang012/leetcode-algorithms-questions/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree)|Easy|
 |236|Lowest Common Ancestor of a Binary Tree|Medium|
 |237|[Delete Node in a Linked List](https://github.com/hyang012/leetcode-algorithms-questions/237.%20Delete%20Node%20in%20a%20Linked%20List)|Easy|
 |238|[Product of Array Except Self](https://github.com/hyang012/leetcode-algorithms-questions/238.%20Product%20of%20Array%20Except%20Self)|Medium|
@@ -244,7 +244,7 @@
 |254|Factor Combinations|Medium|
 |255|Verify Preorder Sequence in Binary Search Tree|Medium|
 |256|Paint House|Easy|
-|257|Binary Tree Paths|Easy|
+|257|[Binary Tree Paths](https://github.com/hyang012/leetcode-algorithms-questions/257.%20Binary%20Tree%20Paths)|Easy|
 |258|Add Digits|Easy|
 |259|3Sum Smaller|Medium|
 |260|Single Number III|Medium|
