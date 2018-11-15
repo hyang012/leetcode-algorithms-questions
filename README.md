@@ -1,4 +1,4 @@
-# Until 2018-11-01 20:45:02, I have solved **110** / **879** problems.
+# Until 2018-11-14 23:03:19, I have solved **112** / **887** problems.
 
 ----------------
 ## LeetCode Solution Table
@@ -115,7 +115,7 @@
 |109|Convert Sorted List to Binary Search Tree|Medium|
 |110|[Balanced Binary Tree](https://github.com/hyang012/leetcode-algorithms-questions/110.%20Balanced%20Binary%20Tree)|Easy|
 |111|[Minimum Depth of Binary Tree](https://github.com/hyang012/leetcode-algorithms-questions/111.%20Minimum%20Depth%20of%20Binary%20Tree)|Easy|
-|112|Path Sum|Easy|
+|112|[Path Sum](https://github.com/hyang012/leetcode-algorithms-questions/112.%20Path%20Sum)|Easy|
 |113|Path Sum II|Medium|
 |114|Flatten Binary Tree to Linked List|Medium|
 |115|Distinct Subsequences|Hard|
@@ -213,7 +213,7 @@
 |223|Rectangle Area|Medium|
 |224|Basic Calculator|Hard|
 |225|Implement Stack using Queues|Easy|
-|226|Invert Binary Tree|Easy|
+|226|[Invert Binary Tree](https://github.com/hyang012/leetcode-algorithms-questions/226.%20Invert%20Binary%20Tree)|Easy|
 |227|[Basic Calculator II](https://github.com/hyang012/leetcode-algorithms-questions/227.%20Basic%20Calculator%20II)|Medium|
 |228|[Summary Ranges](https://github.com/hyang012/leetcode-algorithms-questions/228.%20Summary%20Ranges)|Medium|
 |229|[Majority Element II](https://github.com/hyang012/leetcode-algorithms-questions/229.%20Majority%20Element%20II)|Medium|
@@ -883,3 +883,11 @@
 |930|Binary Subarrays With Sum|Medium|
 |931|Minimum Falling Path Sum|Medium|
 |932|Beautiful Array|Medium|
+|933|Number of Recent Calls|Easy|
+|934|Shortest Bridge|Medium|
+|935|Knight Dialer|Medium|
+|936|Stamping The Sequence|Hard|
+|937|Reorder Log Files|Easy|
+|938|Range Sum of BST|Medium|
+|939|Minimum Area Rectangle|Medium|
+|940|Distinct Subsequences II|Hard|
