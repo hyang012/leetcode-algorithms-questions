@@ -1,4 +1,4 @@
-# Until 2018-11-15 14:35:34, I have solved **114** / **887** problems.
+# Until 2018-11-17 19:41:31, I have solved **116** / **887** problems.
 
 ----------------
 ## LeetCode Solution Table
@@ -97,7 +97,7 @@
 |091|[Decode Ways](https://github.com/hyang012/leetcode-algorithms-questions/091.%20Decode%20Ways)|Medium|
 |092|[Reverse Linked List II](https://github.com/hyang012/leetcode-algorithms-questions/092.%20Reverse%20Linked%20List%20II)|Medium|
 |093|[Restore IP Addresses](https://github.com/hyang012/leetcode-algorithms-questions/093.%20Restore%20IP%20Addresses)|Medium|
-|094|Binary Tree Inorder Traversal|Medium|
+|094|[Binary Tree Inorder Traversal](https://github.com/hyang012/leetcode-algorithms-questions/094.%20Binary%20Tree%20Inorder%20Traversal)|Medium|
 |095|Unique Binary Search Trees II|Medium|
 |096|Unique Binary Search Trees|Medium|
 |097|Interleaving String|Hard|
@@ -390,7 +390,7 @@
 |401|Binary Watch|Easy|
 |402|Remove K Digits|Medium|
 |403|Frog Jump|Hard|
-|404|Sum of Left Leaves|Easy|
+|404|[Sum of Left Leaves](https://github.com/hyang012/leetcode-algorithms-questions/404.%20Sum%20of%20Left%20Leaves)|Easy|
 |405|Convert a Number to Hexadecimal|Easy|
 |406|Queue Reconstruction by Height|Medium|
 |407|Trapping Rain Water II|Hard|
